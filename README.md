@@ -4,6 +4,8 @@ Personal Codex skills.
 
 中文说明请见: [README.zh-CN.md](README.zh-CN.md)
 
+Claude 兼容说明: [CLAUDE.md](CLAUDE.md)
+
 ## Included skills
 
 - `obsidian-article-import`: import and organize web articles into Obsidian notes with source metadata and local image archiving.

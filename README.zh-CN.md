@@ -4,6 +4,8 @@
 
 English version: [README.md](README.md)
 
+Claude 兼容说明: [CLAUDE.md](CLAUDE.md)
+
 ## 已包含的 Skill
 
 - `obsidian-article-import`：将网页文章导入并整理为 Obsidian 笔记，保留来源元信息并尽量将关键图片本地化归档。
