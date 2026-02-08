@@ -1,4 +1,4 @@
-# codex-skills
+# agent-skills
 
 个人 Codex Skills 仓库。
 

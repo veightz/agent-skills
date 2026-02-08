@@ -1,4 +1,4 @@
-# codex-skills
+# agent-skills
 
 Personal Codex skills.
 
