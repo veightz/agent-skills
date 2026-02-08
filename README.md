@@ -44,7 +44,7 @@ Use Codex skill-installer:
 
 ```bash
 python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo veightz/codex-skills \
+  --repo veightz/agent-skills \
   --path skills/obsidian-article-import
 ```
 
